@@ -1,0 +1,50 @@
+.container {
+ background-color: #d0d1d2;
+}
+
+h1 {
+  padding-top: 30px;
+}
+
+.row {
+  background-color: #d0d1d2;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: white;
+  margin-top: 40px;
+}
+
+#list1 {
+  background-color: #d0d1d2;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+#quote {
+  font-size: 1.5em;
+}
+
+.caption {
+  padding-bottom: 20px;
+}
+
+#foot-end {
+  color: black;
+  background-color: white;
+}
+
+#info {
+  padding-bottom: 20px;
+}
+
+#picture-lee {
+  box-shadow: 2px 2px 5px #888888;
+  background-color: white;
+  padding-top: 20px;
+}
